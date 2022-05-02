@@ -22,6 +22,9 @@ pip3 install colorama
 NOTE : Windows users can run this directly by double clicking main.py
 
 Linux Users :
+```
+git clone https://github.com/EruptedLava/Digital-Clock.git
+```
 
 ```
 python3 main.py
