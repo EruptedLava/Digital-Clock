@@ -37,3 +37,8 @@ python3 main.py
 ### Inspired by
 
 https://gitlab.com/halfhiddencode/digital-clock/
+
+### Sample Output
+-------------
+![](Sample_output.gif)
+
