@@ -40,5 +40,5 @@ https://gitlab.com/halfhiddencode/digital-clock/
 
 ### Sample Output
 -------------
-![](Sample_output.gif)
+![](sample_output.png)
 
