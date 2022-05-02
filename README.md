@@ -10,7 +10,7 @@ It helps people to improve him/her creativity in console application.
 it only work properly in linux machine because of "ASCII escape charector" used in programe. Some escape charectors are not work same in both plateform.
 
 ### Requirements 
-- colorama
+- ```colorama```
 
 ## Installation 
 Use the package manager pip to install colorama.
