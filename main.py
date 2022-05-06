@@ -23,7 +23,7 @@ colorss = [Fore.GREEN, Fore.RED, Fore.BLUE,Fore.CYAN,Fore.MAGENTA, Fore.WHITE,Fo
 
 def timeee():
     os.system(cmd)
-    print(random.choice(colorss)+"\n\n\n\n\n\n\n\n")
+    print(random.choice(colorss)+"\n\n\n\n\n\n\n\n\n\n\n\n\n")
     now = datetime.now()
     current_time = now.strftime("%H:%M:%S")
     ctl = list(current_time)
